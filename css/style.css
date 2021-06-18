@@ -7,13 +7,24 @@ header {
     height: 50px;
 }
 
+h1 {
+    margin-top: 40px;
+    margin-right: 50px;
+    color:cornflowerblue;
+}
+
 #header-bottom {
     height: 50px;
-    background-color: blue;
+    background-color: cornflowerblue;;
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #fff;
 }
 
 main {
     height: calc(100vh - 140px);
+    background-color: dimgrey;
 }
 
 header h1 {
