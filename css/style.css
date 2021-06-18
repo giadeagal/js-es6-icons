@@ -1,0 +1,25 @@
+
+header {
+    height: 100px;
+}
+
+#header-top {
+    height: 50px;
+}
+
+#header-bottom {
+    height: 50px;
+    background-color: blue;
+}
+
+main {
+    height: calc(100vh - 140px);
+}
+
+header h1 {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+main {
+    overflow-y: auto;
+}
