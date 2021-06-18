@@ -27,6 +27,12 @@ main {
     background-color: dimgrey;
 }
 
+.card {
+    width: 20%;
+    display: inline-block;
+    margin: 20px 20px;
+}
+
 header h1 {
     font-family: 'Sedgwick Ave Display', cursive;
 }
